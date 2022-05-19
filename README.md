@@ -30,4 +30,6 @@ Once your Repl is made, you are going to have to use the Repl Shell tab to `cd` 
 
 ![https://revature-af.s3.amazonaws.com/replit-github/4-github-repl.jpg](https://revature-af.s3.amazonaws.com/replit-github/4-github-repl.jpg)
 
+6. Whenever there is a change on Github you want to sync to Replit, you will have to go to the Shell on Replit and `git pull` (or use the "Pull" button in the Replit Version Control tab).
 
+![https://revature-af.s3.amazonaws.com/replit-github/5-github-sync.jpg](https://revature-af.s3.amazonaws.com/replit-github/5-github-sync.jpg)
