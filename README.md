@@ -22,7 +22,7 @@ Once your Repl is made, you are going to have to use the Repl Shell tab to `cd` 
 
 3. From the home directory `~`,  delete the original project directory with `rm -rf`, for example: `rm -rf my-new-example-from-github`.
 
-4. Then clone your Github project into the Repl shell in a directory named exactly what your project directory was previously, in this example, `my-new-example-from-github`. Notice how even though the repository in the example is not named the same as the project, it is cloned into a directory Replit expects based on the Replit project name, not the Github repository name.
+4. Then clone your Github project into the Repl shell in a directory named exactly what your project directory was previously, in this example, `my-new-example-from-github`. Notice how even though the repository in the example is not named the same as the project, it is cloned into a directory Replit expects based on the Replit project name, not the Github repository name. **Note: Make sure to clone with the `https` scheme not `ssh`.**
 
 ![https://revature-af.s3.amazonaws.com/replit-github/3-delete-and-clone.jpg](https://revature-af.s3.amazonaws.com/replit-github/3-delete-and-clone.jpg)
 
